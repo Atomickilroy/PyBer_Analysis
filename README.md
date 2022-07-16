@@ -94,13 +94,25 @@ Data Source:
 <br>
 
 
-The Chart above represents the key marker of time 
+The Chart above encompasses all four of the key metrics mentioned above. Its displays:
 
+*  A common trend between the city types on the frequency that costumers use PyBer.
 
+* The deration of peak use between the first and second quarters of the year 
 
+* Additional it shows a projection of the trend line going into the next month. 
+
+# Summary
+---
 <br>
-<br>
-<br>
+
 
 ![PyBer_Summary_df.png](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/analysis/PyBer_Summary_df.png)
 
+In conclusion it is my recommendation to allocate marketing funds proportionally to cities based on their respective type. With the majority going to urban then suburban cities. 
+
+I would recommend beginning a marketing campaign in the the end of the third and beginning of the forth quarter as the weather begins to cool off. This would allow for hiring before the weather turns colder and less people are walking. 
+
+To me, in the beginning of the year particularly in Urban and Suburban areas. It seems hiring drivers is vampped up then peaks once market avablitity is reached leading to lay offs. 
+
+If going into the year we start with the avg number of drivers we had once the graph plateaued as seen in the later months of the chart. Then we could potientally maxamize profitablity both internally and on costumer base.  
