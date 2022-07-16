@@ -3,8 +3,6 @@
 <br>
 
 ## <center> **Purpose** 
-----
-<br>
 
 ### <center>>>>  The purpose of this project was to determine **market avaliablity** across different types of cities and provide insights into how **Pyber**-***a ride share company***, can statigically allocate funds into their ***mixed marketing stategy***. 
 ### <center> ***Through the use of custom DataFrames and Visulizations.*** 
@@ -13,9 +11,6 @@
 
 ---
 ## <center> **Resources**
-
------
-<br>
 
 Software :
 - Anacondas Envirorment
@@ -31,12 +26,25 @@ Dependences:
 
 Data Source: 
 
- ![Analyis Folder](https://github.com/Atomickilroy/PyBer_Analysis/tree/main/analysis)
+* PyBer_ride_data.csv
+
+
+* city_data.csv
+
+
+* ride_data.csv
+
+
+
+ ![Resources Folder](https://github.com/Atomickilroy/PyBer_Analysis/tree/main/Resources)
 
 
 ## <center> **Results**
 
 ----
-<br>
+[https://github.com/Atomickilroy/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb]
+
+
 
 -
+
