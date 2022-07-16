@@ -26,11 +26,7 @@
 
  The purpose of this new an analysis was to prensent a chart that not only showed a comparison of city types, or specific city performance but to demenostrate the the flow of avg fare data over time.
  
- The inital report was a good representation for understanding the " *bread and butter* " of Pyber is the revenue generated from Urban areas and seeing the data from specific cities. Such as:
-
-![Boston Line Chart](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/OOM%20LINE.png)
-
- 
+ The inital report was a good representation for understanding the " *bread and butter* " of Pyber is the revenue generated from Urban areas and seeing the data from specific cities.
  
  
   Yet no one chart was able to demonstrate the combined average of the key metrics: 
@@ -40,7 +36,7 @@
  - Over Time 
 
 
-
+![Boston Line Chart](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/OOM%20LINE.png)
 <br>
 
 ---
