@@ -46,10 +46,6 @@
 ---
 ##  **Resources**
 -----
-<br>
-
-<br>
-
 
 ### Software :
 
