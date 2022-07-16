@@ -1,8 +1,25 @@
+
+
+
 # <center>  ***PyBer Analysis Report*** 
 ----
+
+
+### <center> ***Overview of Analysis*** 
+* * * 
+
+
+### <center>>>>  The purpose of this project was to determine **market avaliablity** across different types of cities and provide insights into how **Pyber**-***a ride share company***, can statigically allocate funds into their ***mixed marketing stategy***. 
+### <center> ***Through the use of custom DataFrames and Visulizations.*** 
+
+
 <br>
 
-## <center> **Purpose** 
+
+------
+
+
+### <center> **Purpose of the new analyis** 
 
 ### <center>>>>  The purpose of this project was to determine **market avaliablity** across different types of cities and provide insights into how **Pyber**-***a ride share company***, can statigically allocate funds into their ***mixed marketing stategy***. 
 ### <center> ***Through the use of custom DataFrames and Visulizations.*** 
@@ -11,8 +28,11 @@
 
 ---
 ## <center> **Resources**
+-----
+<br>
 
-Software :
+
+### Software :
 - Anacondas Envirorment
 - Visual Studio Code
 Language -
@@ -50,4 +70,9 @@ Data Source:
 
 ![Total Fare By City.png](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/analysis/Total%20Fare%20By%20City.png)
 
+
+The Chart above is a clear 
+
+
 ![PyBer_Summary_df.png](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/analysis/PyBer_Summary_df.png)
+
