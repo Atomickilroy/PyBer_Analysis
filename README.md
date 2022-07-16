@@ -39,12 +39,14 @@ Data Source:
  ![Resources Folder](https://github.com/Atomickilroy/PyBer_Analysis/tree/main/Resources)
 
 
-## <center> **Results**
+# <center> ***Results***
+
+- (Challenge.ipynb)[https://github.com/Atomickilroy/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb]
+
+- ( Analysis Folder) [https://github.com/Atomickilroy/PyBer_Analysis/tree/main/analysis]
+* * *
 
 ----
-[https://github.com/Atomickilroy/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb]
 
-
-
--
+![Total Fare By City.png](https://github.com/Atomickilroy/PyBer_Analysis/blob/main/analysis/Total%20Fare%20By%20City.png)
 
